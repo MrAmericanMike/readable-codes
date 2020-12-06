@@ -1,0 +1,32 @@
+{
+	"name": "readable-codes",
+	"version": "0.0.1",
+	"description": "Readable Codes Generator",
+	"main": "lib/readable-codes.js",
+	"scripts": {
+		"test": "node test/test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MrAmericanMike/readable-codes.git"
+	},
+	"keywords": [
+		"readable",
+		"codes",
+		"generator",
+		"random",
+		"nice",
+		"easy",
+		"simple",
+		"numbers",
+		"letters",
+		"lowercase",
+		"uppercase"
+	],
+	"author": "MrAmericanMike",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/MrAmericanMike/readable-codes/issues"
+	},
+	"homepage": "https://github.com/MrAmericanMike/readable-codes#readme"
+}
